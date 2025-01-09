@@ -24,9 +24,6 @@ class DrawerHeaderWidget extends StatefulWidget {
 
 class _DrawerHeaderWidgetState extends State<DrawerHeaderWidget> {
   int _selectedIndex = -1;
-
-
-
   void _onTileTap(int index, String title) {
     setState(() {
       _selectedIndex = index;
@@ -40,7 +37,6 @@ class _DrawerHeaderWidgetState extends State<DrawerHeaderWidget> {
       Get.toNamed(RouteName.calendar);
     }
   }
-
   @override
   Widget build(BuildContext context) {
     return Column(
@@ -60,7 +56,6 @@ class _DrawerHeaderWidgetState extends State<DrawerHeaderWidget> {
       }),
     );
   }
-
   Widget? _getTrailingWidget(String title) {
     if (title == 'Mail') {
       return DrawerCircleWidget(); // Show DrawerCircle for Mail
