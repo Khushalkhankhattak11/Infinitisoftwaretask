@@ -1,0 +1,2 @@
+D:/Infiniti software task/task_app/android/app/.cxx/Debug/2j546268/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Infiniti software task/task_app/android/app/.cxx/Debug/2j546268/armeabi-v7a/CMakeFiles/rebuild_cache.dir

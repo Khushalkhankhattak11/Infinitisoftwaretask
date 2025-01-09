@@ -1,0 +1,2 @@
+D:/Infiniti software task/task_app/android/app/.cxx/RelWithDebInfo/4g6p6n3i/x86/CMakeFiles/edit_cache.dir
+D:/Infiniti software task/task_app/android/app/.cxx/RelWithDebInfo/4g6p6n3i/x86/CMakeFiles/rebuild_cache.dir
